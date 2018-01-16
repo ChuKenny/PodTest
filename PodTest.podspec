@@ -8,7 +8,7 @@ Pod::Spec.new do |s|
     #
 
     s.name         = "PodTest"  # 名字
-    s.version      = "0.0.4"  # 版本号
+    s.version      = "0.0.1"  # 版本号
     s.summary      = "iOS 静态列表页面编写的抽象库(Objective-C实现)"  # 简单介绍
     s.homepage     = "https://github.com/zhujunggsddu/PodTest"  # 项目主页，一般是 github 仓库地址即可
     s.license      = "Sogou"  # 版权声明
