@@ -1,2 +1,2 @@
 # PodTest
-Sogou SDK for Pod Test
+SogouPlus For private pod Test
